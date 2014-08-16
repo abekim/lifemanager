@@ -1,0 +1,6 @@
+# Python packages
+*.pyc
+env/
+
+# Mac OS files
+.DS_Store
